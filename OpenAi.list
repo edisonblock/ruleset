@@ -1,0 +1,14 @@
+# NAME: OpenAI
+# AUTHOR: JayLee
+# REPO: NONE
+# UPDATED: 2023-03-29 20:22:26
+# HOST-SUFFIX: 7
+# TOTAL: 7
+payload:
+HOST-SUFFIX,openai.com
+HOST-SUFFIX,chat.openai.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,auth0.openai.com
+HOST-SUFFIX,platform.openai.com
+HOST-SUFFIX,ai.com
+HOST-SUFFIX,challenges.cloudflare.com
